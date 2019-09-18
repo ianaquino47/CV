@@ -1,6 +1,6 @@
 ## Ian Aquino
 
-[Skills](https://github.com/ianaquino47/CV/#skills) | [Education](https://github.com/ianaquino47/CV/#education) | [Experience](https://github.com/lsewilson/CV/#experience) | [Projects](https://github.com/ianaquino47/CV/#projects) | [Hobbies](https://github.com/ianaquino47/CV/#hobbies) | [LinkedIn](https://www.linkedin.com/in/ian-aquino/) 
+[Skills](https://github.com/ianaquino47/CV/#skills) | [Education](https://github.com/ianaquino47/CV/#education) | [Experience](https://github.com/ianaquino47/CV/#experience) | [Projects](https://github.com/ianaquino47/CV/#projects) | [Hobbies](https://github.com/ianaquino47/CV/#hobbies) | [LinkedIn](https://www.linkedin.com/in/ian-aquino/) 
 
 A highly driven Junior Software Developer that is fascinated by anything tech-related - from video games to AI, from self-driving cars to simple web-apps! This passion for technology stems from my belief in the power of software, and its ability to change the world and how we live. 
 
