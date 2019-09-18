@@ -1,6 +1,6 @@
 ## Ian Aquino
 
-[Skills](https://github.com/ianaquino47/CV/#skills) | [Education](https://github.com/ianaquino47/CV/#education) | [Experience](https://github.com/ianaquino47/CV/#experience) | [Projects](https://github.com/ianaquino47/CV/#projects) | [Hobbies](https://github.com/ianaquino47/CV/#hobbies) | [LinkedIn](https://www.linkedin.com/in/ian-aquino/) 
+[Skills](https://github.com/ianaquino47/CV/#skills) | [Education](https://github.com/ianaquino47/CV/#education) | [Experience](https://github.com/ianaquino47/CV/#experience) | [Projects](https://github.com/ianaquino47/CV/#projects) | [Hobbies](https://github.com/ianaquino47/CV/#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ian-aquino/) 
 
 A highly driven Junior Software Developer that is fascinated by anything tech-related - from video games to AI, from self-driving cars to simple web-apps! This passion for technology stems from my belief in the power of software, and its ability to change the world and how we live. 
 
@@ -53,4 +53,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies and Interests
 
-Any cool stuff that makes you a super part of a software development team
+- **Basketball** - Consistently been going to weekly pick up games that have immensely improved my sense of
+  leadership, communication, teamwork and companionship with my teammates that are
+  all key in the sport of basketball. I also play badminton!
+- **Music**  - I play the guitar from time to time especially when friends are over and no karaoke machine in sight.
+- **Video games** - Are you really a millenial if you did not play Super Mario Bros. at least once in your life?
