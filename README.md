@@ -1,6 +1,6 @@
 ## Ian Aquino
 
-[Skills](https://github.com/ianaquino47/CV/#skills) | [Education](https://github.com/ianaquino47/CV/#education) | [Experience](https://github.com/ianaquino47/CV/#experience) | [Projects](https://github.com/ianaquino47/CV/#projects) | [Hobbies](https://github.com/ianaquino47/CV/#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ian-aquino/) 
+[Skills](https://github.com/ianaquino47/CV/#skills) | [Education](https://github.com/ianaquino47/CV/#education) | [Projects](https://github.com/ianaquino47/CV/#projects) | [Experience](https://github.com/ianaquino47/CV/#experience) | [Hobbies](https://github.com/ianaquino47/CV/#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ian-aquino/) 
 
 A highly driven Junior Software Developer that is fascinated by anything tech-related - from video games to AI, from self-driving cars to simple web-apps! This passion for technology stems from my belief in the power of software, and its ability to change the world and how we live. 
 
@@ -8,7 +8,7 @@ Directly after graduating with a degree in Mathematical, Statistical, and Actuar
 
 I joined [Makers Academy](http://www.makersacademy.com/) in June 2019 and it has been instrumental in my growth as a developer. I have learnt the fundamentals of software development through a multitude of projects and gathered valuable experience that will help me in my pursuit of my dream developer role.
 
-## Skills
+## Skills (To be completed)
 
 #### Analytical Thinker
 
@@ -42,6 +42,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Edinburgh (Sept '12 - Jun '14)
 
 - Diploma of Higher Education in Mathematics
+
+## Projects
+
+| Project | Description | Technologies |
+| :-----: | :---------: | :----------: |
+|         |             |              |
+|         |             |              |
+|         |             |              |
+
+
 
 ## Experience
 
