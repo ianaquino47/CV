@@ -4,15 +4,13 @@
 
 A highly driven Junior Software Developer that is fascinated by anything tech-related - from video games to AI, from self-driving cars to simple web-apps! This passion for technology stems from my belief in the power of software, and its ability to change the world and how we live. 
 
-Directly after graduating with a degree in Mathematical, Statistical, and Acturial Sciences, I started working as a Graduate Analyst in an Insurance Company. I realized very quickly that I was in the wrong career path and that is what started my decision to look into a change of career. I wanted to combine both my love for technology and problem-solving and hence I looked into coding. 
+Directly after graduating with a degree in Mathematical, Statistical, and Actuarial Sciences, I started working as a Graduate Analyst in an Insurance Company. I realized very quickly that I was in the wrong career path and that is mainly what inspired my change of career. I wanted to combine both my love for technology and problem-solving and coding ticks both of those boxes! 
 
-I joined [Makers Academy](http://www.makersacademy.com/) in June 2019 and it has been instrumental in my growth as a developer. I have learnt the fundamentals of software development through a multitude of projects - great and small. 
+I joined [Makers Academy](http://www.makersacademy.com/) in June 2019 and it has been instrumental in my growth as a developer. I have learnt the fundamentals of software development through a multitude of projects and gathered valuable experience that will help me in my pursuit of my dream developer role.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
+#### Analytical Thinker
 
 - Experience
 - Achievements
