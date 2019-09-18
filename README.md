@@ -27,22 +27,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jun '19 - Sept '19)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Objec-Oriented Design
+- Test-Driven Development, Behaviour Driven Development
+- Agile methodologies / XP values
+- Pair Programming
 
-#### Your University / College (start_date to end_date)
+#### Heriot-Watt University (Sept '15' - Jun '18)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc(Hons) Mathematical, Statistical, and Actuarial Sciences
+- 2.1
 
-#### Any other qualifications
+#### University of Edinburgh (Sept '12 - Jun '14)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Diploma of Higher Education in Mathematics
 
 ## Experience
 
