@@ -45,16 +45,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**QBE Europe** (Oct '18 - Dec '18)    
+*IT Graduate Analyst - Service Reporting*  
 
-- Any experience relevent to software development
+**Apple** (Oct '15 - Feb '17)    
+*Product Zone Specialist*  
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-
-- Any experience relevent to software development
-
-## Hobbies
+## Hobbies and Interests
 
 Any cool stuff that makes you a super part of a software development team
