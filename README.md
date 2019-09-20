@@ -20,7 +20,7 @@ From shooting hoops with my basketball teammates, to debugging code with my pair
 
 #### Resilient
 
-
+Adapting to the realities of life by being headstrong is one of the personal traits I am most proud of. I did not do too well in my first university course and I was faced with a decision to either graduate with a normal diploma or completely start all over again. I had to be level-headed and fortunately I found a related course and I graduated successfully. I also had to make a leap of faith in deciding to have a change of career, and here I am looking for a role in tech!
 
 ## Education
 
