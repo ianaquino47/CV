@@ -8,7 +8,7 @@ Directly after graduating with a degree in Mathematical, Statistical, and Actuar
 
 I joined [Makers Academy](http://www.makersacademy.com/) in June 2019 and it has been instrumental in my growth as a developer. I have learnt the fundamentals of software development through a multitude of projects and gathered valuable experience that will help me in the pursuit of my dream developer role.
 
-## Skills (To be completed)
+## Skills 
 
 #### Analytical Thinker
 
