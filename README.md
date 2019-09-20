@@ -12,24 +12,21 @@ I joined [Makers Academy](http://www.makersacademy.com/) in June 2019 and it has
 
 #### Analytical Thinker
 
-- Experience
-- Achievements
-- Evidence
+During my undergraduate degree in a Mathematical field, analysis and problem-solving skills was essentially needed everyday in order to keep up with the curriculum that has subjects like Linear Algebra and Multivariable Calculus. It was tough but I managed to finish the course with honours.
 
-#### Another Skill
+#### Teamplayer
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+From shooting hoops with my basketball teammates, to debugging code with my pair-programming partners at Makers Academy, I have always put the utmost importance on communication and compromise when working in a team. I have learned that things are done with speed and finesse when everyone is happy with who they are working with. I have never failed to bring enthusiasm and hard work whenever I collaborate with others. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Resilient
+
+
 
 ## Education
 
 #### Makers Academy (Jun '19 - Sept '19)
 
-- Objec-Oriented Design
+- Object-Oriented Design
 - Test-Driven Development, Behaviour Driven Development
 - Agile methodologies / XP values
 - Pair Programming
@@ -45,11 +42,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects
 
-| Project | Description | Technologies |
-| :-----: | :---------: | :----------: |
-|         |             |              |
-|         |             |              |
-|         |             |              |
+|                           Project                            |                         Description                          |            Technologies            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------: |
+| [Acebook](https://github.com/ianaquino47/acebook-Stay_on_Track) | A social media platform that let's you sign-up, create a post, and like a post. |            Rails, Rspec            |
+| [Makers BnB](https://github.com/KajaMaria/Airbe_or_not_to_be) | A clone of AirBNB that allows users to list spaces they have available, and to hire spaces for the night. | Rails, Javascript, Jasmine, Jquery |
+|   [Pac-Trump VR](https://github.com/Kaymo1990/PacTrumpVR)    | A spin-off of a classic 80's video game done in Virtual Reality. |             C#, Unity              |
 
 
 
